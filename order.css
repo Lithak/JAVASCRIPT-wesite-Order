@@ -3,7 +3,8 @@ body {
     background-color: #CBF26A;
   }
   #page {
-    width: 710px;
+    width: 800px;
+    height: 500;
     background-color: rgb(197, 248, 246);
     margin: 10px auto;
     border: 2px solid black;
@@ -65,8 +66,8 @@ body {
   table {
     /* Sets a border around the whole table */    
     border: 1px solid black;
-    width: 95%;
-    height: 18%;
+    width: 80%;
+    height: 25%;
     text-align: center;
     table-layout: auto;
     align-items: center;
